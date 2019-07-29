@@ -1,0 +1,6 @@
+@CHARSET "ISO-8859-1";
+body {background: linear-gradient(white, #99a594); background-size: cover; background-attachment: fixed;}
+.form {padding: 10px; min-height: 550px; padding-top:20px;}
+select, input, input[type="text"], input[type="email"], input[type="number"], .selop {height: 40px;}
+#captcha input {height:30px; width: 30px; font-weight: bold;}
+#num1, #num2, #num3 {text-align: center;}
